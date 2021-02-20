@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "to",
+      "age": 18,
+      "imgurl": "https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png"
+    },
+    {
+      "id": 2,
+      "name": "lili",
+      "age": 20,
+      "imgurl": "blob:http://localhost:8080/251d8204-f778-432a-8cab-a9c941fa41d3"
+    },
+    {
+      "name": "xixi",
+      "age": "3",
+      "id": 3,
+      "imgurl": "https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png"
+    },
+    {
+      "name": "1",
+      "age": "24",
+      "imgurl": "blob:http://localhost:8080/15cfc050-68a3-4827-8699-f353b7cf7f12",
+      "id": 6
+    },
+    {
+      "name": "q",
+      "age": "17",
+      "imgurl": "blob:http://localhost:8080/9b8f935b-ad9e-4936-bf72-8ef5ac07bb83",
+      "id": 7
+    }
+  ]
+}
